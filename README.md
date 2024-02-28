@@ -33,7 +33,7 @@ To install TodoApp Microservice, you need to have Node.js and npm installed on y
 
      ```bash
     cd todoapp-microservice/todo-frontend
-    npm install
+    npm start
     ```
 
 ## Usage

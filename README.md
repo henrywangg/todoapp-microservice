@@ -27,7 +27,13 @@ To install TodoApp Microservice, you need to have Node.js and npm installed on y
 4. **Run the Application**: Start the application by running:
 
     ```bash
+    cd todoapp-microservice/todo-backend
     npm start
+    ```
+
+     ```bash
+    cd todoapp-microservice/todo-frontend
+    npm install
     ```
 
 ## Usage

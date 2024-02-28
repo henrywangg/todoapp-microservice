@@ -1,0 +1,9 @@
+{
+    "type": "sqlite",
+    "database": "todo.db",
+    "entities": [
+        "src/entities/*.js"
+    ],
+    "logging": false,
+    "synchronize": true
+}

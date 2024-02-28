@@ -1,0 +1,13 @@
+{
+    "type": "mongodb",
+    "url": "mongodb+srv://henrywang:123@cluster0.9irib19.mongodb.net/todo-db?retryWrites=true&w=majority",
+    "useNewUrlParser": true,
+    "synchronize": true,
+    "logging": false,
+    "entities": [
+        "src/entities/*.js"
+    ],
+    "cli": {
+        "entitiesDir": "src/entities"
+    }
+}

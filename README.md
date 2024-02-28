@@ -32,7 +32,7 @@ To install TodoApp Microservice, you need to have Node.js and npm installed on y
 
 ## Usage
 
-Once the application is successfully running, you can access it from a web browser at `http://localhost:3000`. The application provides basic functionalities of a to-do app, including:
+Once the application is successfully running, you can access it from the Postman application at `http://localhost:8080` for Backend and `http://localhost:8081` for Frontend. The application provides basic functionalities of a to-do app, including:
 
 - **View Tasks**: Display the list of current tasks.
 - **Add New Task**: Add a new task to the list.

@@ -47,14 +47,6 @@ TodoApp Microservice is divided into independent microservices, including:
 
 Each service can be developed, deployed, and managed independently, creating a distributed system with scalability and flexibility.
 
-## Contribution
-
-If you would like to contribute to the TodoApp Microservice project, you can open new issues or submit pull requests on GitHub.
-
 ## Author
 
 TodoApp Microservice is developed by [Henry Wang](https://github.com/henrywangg).
-
-## License
-
-The project is distributed under the [MIT License](https://opensource.org/licenses/MIT).
